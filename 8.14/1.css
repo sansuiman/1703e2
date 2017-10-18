@@ -1,0 +1,90 @@
+.box1 > img {
+  width: 100%;
+  height: 50px;
+  overflow: hidden; }
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+.box2, .box3 {
+  background: darkslateblue;
+  width: 50%;
+  height: 50px;
+  float: left;
+  color: white;
+  line-height: 50px;
+  overflow: hidden;
+  margin-top: -8px; }
+
+.box2 {
+  font-size: 15px; }
+
+.box3 {
+  font-size: 20px;
+  font-weight: bold; }
+
+.box4 > img {
+  width: 100%;
+  height: 150px; }
+
+.box {
+  background: white;
+  height: 400px; }
+
+.box5 {
+  display: flex;
+  justify-content: space-around; }
+
+.q2 {
+  margin-top: 20px;
+  text-align: center; }
+
+.q2 > p {
+  margin-top: 5px; }
+
+.ww {
+  background: #F2F2F2;
+  width: 100%;
+  height: 100%; }
+
+.pp {
+  color: gray;
+  font-size: 13px;
+  margin-left: 40px; }
+
+.bo1 {
+  width: 90%;
+  background: white;
+  margin: 0 auto; }
+
+.bo3 {
+  display: flex;
+  justify-content: space-around; }
+
+.bo2 {
+  margin-top: 10px; }
+
+.boo > p {
+  padding-top: 10px;
+  margin-left: 30px; }
+
+.bo4 {
+  margin-top: 10px;
+  border-top: 1px solid gray;
+  display: flex;
+  justify-content: space-between; }
+
+.bo5 {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap; }
+
+.bb1 {
+  width: 90%;
+  background: white;
+  margin: 0 auto;
+  margin-top: 30px; }
+
+/*# sourceMappingURL=1.css.map */
